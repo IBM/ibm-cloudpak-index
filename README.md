@@ -27,5 +27,6 @@ This is a repo used to group all open source projects related to IBM Cloud Pak u
 
 ## IBM Cloud Pak for Multicloud Management
 
-TODO
-
+| Project                                                                                                                                                                                                            | Description                         |
+| -------------------------------------  | --------------------------------|
+| [hybridapplication-operator](https://github.com/IBM/hybridapplication-operator)| Hybrid Application Operator for multicloud, used to manage both continer and non-container applications in multicloud environment |
