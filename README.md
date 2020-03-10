@@ -4,6 +4,7 @@ This is a central entry point to group all common services for IBM Cloud Pak Fou
 
 | Project                                                                                                                                                                                                            | Description                         |
 | -------------------------------------  | --------------------------------|
+| [operand-deployment-lifecycle-manager](https://github.com/IBM/operand-deployment-lifecycle-manager)| Managing the lifecycle for a group of operands |
 | [ibm-healthcheck-operator](https://github.com/IBM/ibm-healthcheck-operator)| IBM Health Check Operator is used to manage the IBM health check service |
 | [ibm-cert-manager-operator](https://github.com/IBM/ibm-cert-manager-operator) | IBM Cert-Manager Operator is used to manage IBM cert-manager service |
 | [ibm-iam-operator](https://github.com/IBM/ibm-iam-operator) | IBM IAM Operator is used to manage IBM authentication and access management service |
