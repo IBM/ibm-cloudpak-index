@@ -25,6 +25,8 @@ This is a repo used to group all open source projects related to IBM Cloud Pak u
 | [ibm-monitoring-exporters-operator](https://github.com/IBM/ibm-monitoring-exporters-operator) | IBM Monitoring Exporters Operator is used to manage node-exporter, kube-state-metrics and collectd exporter with tls enabled |
 | [ibm-monitoring-prometheus-operator-ext](https://github.com/IBM/ibm-monitoring-prometheus-operator-ext) | IBM Monitoring Prometheus Operator Extension is used to manage Prometheus and Alertmanager instances with RBAC and Multicloud monitoring enabled |
 | [ibm-grafana-operator](https://github.com/IBM/ibm-grafana-operator) | IBM Grafana Operator is used to manage grafana service |
+| [ibm-management-ingress-operator](https://github.com/IBM/ibm-management-ingress-operator) | IBM Management Ingress Operator is used to manage management ingress service |
+| [ibm-ingress-nginx-operator](https://github.com/IBM/ibm-ingress-nginx-operator) | IBM Ingress Nginx Operator is used to manage Ingress nginx service |
 
 ## IBM Cloud Pak for Multicloud Management
 
