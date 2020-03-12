@@ -27,6 +27,12 @@ This is a repo used to group all open source projects related to IBM Cloud Pak u
 | [ibm-grafana-operator](https://github.com/IBM/ibm-grafana-operator) | IBM Grafana Operator is used to manage grafana service |
 | [ibm-management-ingress-operator](https://github.com/IBM/ibm-management-ingress-operator) | IBM Management Ingress Operator is used to manage management ingress service |
 | [ibm-ingress-nginx-operator](https://github.com/IBM/ibm-ingress-nginx-operator) | IBM Ingress Nginx Operator is used to manage Ingress nginx service |
+| [ibm-platform-api-operator](https://github.com/IBM/ibm-platform-api-operator) | Platform API is a REST API service for managing cluster and providing access to command line tools, such as cloudctl and kubectl |
+| [ibm-helm-api-operator](https://github.com/IBM/ibm-helm-api-operator) | Helm API provides a RESTful API service for Helm-Tiller |
+| [ibm-helm-repo-operator](https://github.com/IBM/ibm-helm-repo-operator) | Helm Repo is a helm chart repository for storing and supplying IBM and local charts |
+| [ibm-management-repo-operator](https://github.com/IBM/ibm-management-repo-operator) | Management Repo is a helm chart repository for storing and supplying IBM and local charts |
+| [ibm-catalog-ui-operator](https://github.com/IBM/ibm-catalog-ui-operator) | CatalogUI provides Catalog UI service for Helm charts management |
+| [cloud-pak-cli](https://github.com/IBM/cloud-pak-cli) | cloudctl downloadable from public github |
 
 ## IBM Cloud Pak for Multicloud Management
 
