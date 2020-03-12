@@ -33,6 +33,7 @@ This is a repo used to group all open source projects related to IBM Cloud Pak u
 | [ibm-management-repo-operator](https://github.com/IBM/ibm-management-repo-operator) | Management Repo is a helm chart repository for storing and supplying IBM and local charts |
 | [ibm-catalog-ui-operator](https://github.com/IBM/ibm-catalog-ui-operator) | CatalogUI provides Catalog UI service for Helm charts management |
 | [cloud-pak-cli](https://github.com/IBM/cloud-pak-cli) | cloudctl downloadable from public github |
+| [ibm-metering-operator](https://github.com/IBM/ibm-metering-operator) | IBM Metering Operator is used to meter processor, memory, and CPU used for workloads |
 
 ## IBM Cloud Pak for Multicloud Management
 
