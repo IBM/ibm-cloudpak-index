@@ -40,3 +40,4 @@ This is a repo used to group all open source projects related to IBM Cloud Pak u
 | Project                                                                                                                                                                                                            | Description                         |
 | -------------------------------------  | --------------------------------|
 | [hybridapplication-operator](https://github.com/IBM/hybridapplication-operator)| Hybrid Application Operator for multicloud, used to manage both continer and non-container applications in multicloud environment |
+| [multicloud-operators-policy-controller](https://github.com/IBM/multicloud-operators-policy-controller)| This policy controllers are Kubernetes CustomResourceDefinition (CRD) instance that can integrate with Governance Risk and Compliance (GRC) framework on IBM Multicloud management.|
