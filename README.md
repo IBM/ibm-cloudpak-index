@@ -17,6 +17,7 @@ This is a repo used to group all open source projects related to IBM Cloud Pak u
 | Project                                                                                                                                                                                                            | Description                         |
 | -------------------------------------  | --------------------------------|
 | [operand-deployment-lifecycle-manager](https://github.com/IBM/operand-deployment-lifecycle-manager)| Managing the lifecycle for a group of operands |
+| [ibm-common-service-operator](https://github.com/IBM/ibm-common-service-operator)| IBM Common Service Operator is used to install all common services via ODLM |
 | [ibm-healthcheck-operator](https://github.com/IBM/ibm-healthcheck-operator)| IBM Health Check Operator is used to manage the IBM health check service |
 | [ibm-cert-manager-operator](https://github.com/IBM/ibm-cert-manager-operator) | IBM Cert-Manager Operator is used to manage IBM cert-manager service |
 | [ibm-iam-operator](https://github.com/IBM/ibm-iam-operator) | IBM IAM Operator is used to manage IBM authentication and access management service |
